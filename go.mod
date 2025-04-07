@@ -1,4 +1,4 @@
-module github.com/CocaineCong/secret
+module github.com/joshua-deng/secret
 
 go 1.18
 

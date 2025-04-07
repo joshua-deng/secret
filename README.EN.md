@@ -25,7 +25,7 @@ Provide the interface of symmetric encryption AES/DES/3DES and asymmetric encryp
 ## Install
 You can install this package like this.
 ```go
-go get github.com/CocaineCong/secret
+go get github.com/joshua-deng/secret
 ```
 
 ## Usage

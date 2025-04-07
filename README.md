@@ -13,7 +13,7 @@
 
 # 使用说明
 ```go
-go get github.com/CocaineCong/secret
+go get github.com/joshua-deng/secret
 ```
 
 ## AES
